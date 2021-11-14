@@ -21,7 +21,7 @@ $ ./docker_build.sh
   4.2.0
   ```
 
-## How to install openCV in the docker
+## How to install openCV into docker
 Let's see [Install OpenCV-Python in Ubuntu](https://docs.opencv.org/3.4/d2/de6/tutorial_py_setup_in_ubuntu.html).
 
 
