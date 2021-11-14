@@ -1,8 +1,8 @@
 # docker-opencv-python
-
 This is a dockerfile with OpenCV and Python.
-See './docker/README.md' for detail.
+
+See `./docker/README.md` for more information.
 
 ## Usage
-Copying under the './docker' directory into your project dirctory.
+Copying under `./docker` into your project dirctory.
 
